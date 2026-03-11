@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Keara 👋
 
-<!--
-**Karelovely/Karelovely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Strategist | Generative AI | Automation | Applied Machine Learning
 
-Here are some ideas to get you started:
+I build AI-driven systems that automate workflows, analyze data, and improve decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+- Healthcare AI
+- Machine learning concepts
+- LLM workflows
+- AI automation systems
+
+## Featured AI Projects
+
+🔹 Patient Intake LLM Assistant  
+🔹 Healthcare Claims Risk Prioritization  
+🔹 Fraud Detection AI  
+🔹 Clinical Document Summarizer  
+🔹 AI Workflow Automation  
+
+## Tools & Technologies
+
+Python  
+Large Language Models (LLMs)  
+Prompt Engineering  
+Automation Tools  
+Data Analysis  
+
+## Mission
+
+I'm passionate about applying AI to solve real-world problems in healthcare, operations, and digital systems.
